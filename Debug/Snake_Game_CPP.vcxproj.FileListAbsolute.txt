@@ -1,0 +1,2 @@
+D:\Projects\CPP\Snake_Game_CPP\Debug\Snake_Game_CPP.exe
+D:\Projects\CPP\Snake_Game_CPP\Debug\Snake_Game_CPP.pdb

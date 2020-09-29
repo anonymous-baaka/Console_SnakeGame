@@ -1,0 +1,3 @@
+﻿  Snake_Game_CPP.cpp
+D:\Projects\CPP\Snake_Game_CPP\Snake_Game_CPP.cpp(276,9): warning C4101: 'highScore': unreferenced local variable
+  Snake_Game_CPP.vcxproj -> D:\Projects\CPP\Snake_Game_CPP\Debug\Snake_Game_CPP.exe
